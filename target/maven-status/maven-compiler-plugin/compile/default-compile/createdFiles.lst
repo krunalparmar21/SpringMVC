@@ -1,0 +1,11 @@
+SpringMVC\controller\HomeController.class
+SpringMVC\dao\DaoImpl.class
+SpringMVC\Bean\Address.class
+SpringMVC\Service\UserService.class
+SpringMVC\dao\Dao.class
+SpringMVC\util\HibernateUtil.class
+SpringMVC\config\AppContext.class
+SpringMVC\config\WebMvcConfig.class
+SpringMVC\Bean\User.class
+SpringMVC\config\WebInitializer.class
+SpringMVC\Service\UserServiceImpl.class
